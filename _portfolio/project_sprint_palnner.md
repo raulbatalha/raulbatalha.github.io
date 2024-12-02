@@ -10,8 +10,6 @@ sidebar:
     text: "Desenvolver algoritmo genético, implementar módulos de avaliação e otimização, e criar relatórios para o planejamento de sprints."
 ---
 
-# Otimize o Planejamento de Sprints com Algoritmos Genéticos 🚀
-
 O desenvolvimento ágil é sobre eficiência, colaboração e entrega contínua de valor. Mas, quando o planejamento da sprint vira um quebra-cabeça entre histórias de usuário e a capacidade da equipe, surge a necessidade de algo mais estratégico. É aí que entra o **Sprint Planner**: uma solução inovadora que utiliza algoritmos genéticos para otimizar a distribuição de tarefas dentro da sua equipe, considerando senioridade e prazos.
 
 ---

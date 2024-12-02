@@ -10,8 +10,6 @@ sidebar:
     text: "Desenvolver e manter scripts de teste, configurar o ambiente de testes, e implementar captura de evidências automatizadas."
 ---
 
-## Automação de Testes Mobile com Appium e Selenium
-
 A automação de testes é uma peça-chave para garantir a qualidade em aplicações móveis. Este projeto utiliza as ferramentas Appium e Selenium para criar uma estrutura escalável, suportando dispositivos Android e iOS, com modularidade e captura automática de evidências.
 
 ### Por que este projeto é útil?

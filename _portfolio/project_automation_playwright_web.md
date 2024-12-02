@@ -10,8 +10,6 @@ sidebar:
     text: "Modelo de objetos de página, execução paralela, suporte a REST APIs"
 ---
 
-# Automação do Portal de Benefícios de Saúde da Petrobras com Playwright e TypeScript
-
 Automatizar testes para portais corporativos é uma tarefa desafiadora, mas essencial para garantir qualidade e eficiência. Este projeto traz uma abordagem moderna para testar o Portal de Benefícios de Saúde da Petrobras, utilizando **Playwright** e **TypeScript**. Vamos explorar como ele funciona e como você pode usá-lo para automatizar testes com precisão.
 
 ---
