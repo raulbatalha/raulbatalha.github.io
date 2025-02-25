@@ -27,4 +27,4 @@ Se você está procurando um profissional dedicado e com visão estratégica par
 Para acessar meu currículo completo e atualizado, clique no link abaixo:
 
 - [Visualizar Currículo]({{ site.baseurl }}/curriculum-vitae)
-- [Baixar Currículo em PDF](https://drive.google.com/file/d/1kUxPeK0fe9w5CvrzeDcevdql_JJKGcMy/view?usp=sharing){:target="_blank"}
+- [Baixar Currículo em PDF](https://drive.google.com/file/d/1YZ6oNW3MSATGfZqeu4xEX-a7Cvhwx-oS/view?usp=sharing){:target="_blank"}
